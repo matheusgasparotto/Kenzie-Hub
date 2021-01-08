@@ -10,5 +10,5 @@ Objetivos de aprendizado
  - Praticar os processos Scrum e suas cerimônias
  - Praticar a comunicação e o trabalho em equipe
 
-#Deploy Link
+# Deploy Link
 https://kenzie-hub-six.vercel.app/
