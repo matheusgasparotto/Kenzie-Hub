@@ -9,3 +9,6 @@ Objetivos de aprendizado
  - Praticar o uso de bibliotecas de componentes
  - Praticar os processos Scrum e suas cerimônias
  - Praticar a comunicação e o trabalho em equipe
+
+#Deploy Link
+https://kenzie-hub-six.vercel.app/
